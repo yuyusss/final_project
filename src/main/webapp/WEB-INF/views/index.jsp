@@ -4,10 +4,16 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Mutrouce</title>
 </head>
 <body>
     <h1>index 페이지 입니다.</h1>
-test 추가
+
+    <%--header--%>
+    <header>
+        <%--logo image--%>
+        logo
+    </header>
+
 </body>
 </html>
