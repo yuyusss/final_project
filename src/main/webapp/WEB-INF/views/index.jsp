@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>index 페이지 입니다.</h1>
+test 추가
 </body>
 </html>
